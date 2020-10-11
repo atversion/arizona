@@ -7,82 +7,83 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[01:03:02] filterscripts = ""  (string)
-[01:03:02] 
-[01:03:02] Server Plugins
-[01:03:02] --------------
-[01:03:02]  Loading plugin: mysql
-[01:03:02]  >> plugin.mysql: R39-6 successfully loaded.
-[01:03:02]   Loaded.
-[01:03:02]  Loading plugin: pawncmd
-[01:03:02] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
-[01:03:02]   Loaded.
-[01:03:02]  Loading plugin: sscanf
-[01:03:02] 
+[16:46:12] filterscripts = ""  (string)
+[16:46:12] 
+[16:46:12] Server Plugins
+[16:46:12] --------------
+[16:46:12]  Loading plugin: mysql
+[16:46:12]  >> plugin.mysql: R39-6 successfully loaded.
+[16:46:12]   Loaded.
+[16:46:12]  Loading plugin: pawncmd
+[16:46:12] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:46:12]   Loaded.
+[16:46:12]  Loading plugin: sscanf
+[16:46:12] 
 
-[01:03:02]  ===============================
+[16:46:12]  ===============================
 
-[01:03:02]       sscanf plugin loaded.     
+[16:46:12]       sscanf plugin loaded.     
 
-[01:03:02]          Version:  2.8.3        
+[16:46:12]          Version:  2.8.3        
 
-[01:03:02]   (c) 2018 Alex "Y_Less" Cole  
+[16:46:12]   (c) 2018 Alex "Y_Less" Cole  
 
-[01:03:02]  ===============================
+[16:46:12]  ===============================
 
-[01:03:02]   Loaded.
-[01:03:02]  Loading plugin: streamer
-[01:03:02] 
+[16:46:12]   Loaded.
+[16:46:12]  Loading plugin: streamer
+[16:46:13] 
 
 *** Streamer Plugin v2.9.4 by Incognito loaded ***
 
-[01:03:02]   Loaded.
-[01:03:02]  Loading plugin: md5
-[01:03:02]   MD5 v1.2 by BJIADOKC loaded
-[01:03:02]   Loaded.
-[01:03:02]  Loading plugin: TOTP
-[01:03:02] TOTP plugin v1.0.1 by Games loaded.
-[01:03:02]   Loaded.
-[01:03:02]  Loaded 6 plugins.
+[16:46:13]   Loaded.
+[16:46:13]  Loading plugin: md5
+[16:46:13]   MD5 v1.2 by BJIADOKC loaded
+[16:46:13]   Loaded.
+[16:46:13]  Loading plugin: TOTP
+[16:46:13] TOTP plugin v1.0.1 by Games loaded.
+[16:46:13]   Loaded.
+[16:46:13]  Loaded 6 plugins.
 
-[01:03:02] 
-[01:03:02] Filterscripts
-[01:03:02] ---------------
-[01:03:02]   Loaded 0 filterscripts.
+[16:46:13] 
+[16:46:13] Filterscripts
+[16:46:13] ---------------
+[16:46:13]   Loaded 0 filterscripts.
 
-[01:03:02]  
-[01:03:02] --------------------------------------
-[01:03:02]  Античит Nex-AC загружен!
-[01:03:02]  Версия античита: 1.9.49
-[01:03:02]  Автор: Nexius
-[01:03:02] --------------------------------------
+[16:46:13]  
+[16:46:13] --------------------------------------
+[16:46:13]  Античит Nex-AC загружен!
+[16:46:13]  Версия античита: 1.9.49
+[16:46:13]  Автор: Nexius
+[16:46:13] --------------------------------------
 
-[01:03:05] FullDostup успешно загружен
-[01:03:05] Бонус LEVEL:      		1
-[01:03:05] Бонус MONEY:      		10000000
-[01:03:05] Бонус DONATE:      		10000
-[01:03:05] BlackMarket работает
-[01:03:05] Цена на акссесуары:      	60000000
-[01:03:05] Цена на машины:      		50000000
-[01:03:05] Цена на скины:      		40000000
-[01:03:05] Сколько заработано:      	450000000
-[01:03:05] Загружено биллбордов:      	50
-[01:03:05] Репорты не найдены.
-[01:03:05] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 1мс.
-[01:03:05] Загружено домов:		874
-[01:03:05] Загружено бизнесов:		188
-[01:03:05] Загружено авто:		70
-[01:03:05] Загружено семей:		1
-[01:03:05] Загружено паркингов:		38
-[01:03:05] Создано транспорта:		868
-[01:03:05] Создано объектов:		48247
-[01:03:05] Создано гангзон:		101
-[01:03:05] Сервер успешно запустился!
-[01:03:05] Number of vehicle models: 132
-[01:03:44] [connection] 127.0.0.1:60419 requests connection cookie.
-[01:03:45] [connection] incoming connection: 127.0.0.1:60419 id: 0
-[01:03:45] [join] Maxim_Nazarov has joined the server (0:127.0.0.1)
-[01:03:53] [part] Maxim_Nazarov has left the server (0:1)
+[16:46:19] FullDostup успешно загружен
+[16:46:19] Бонус LEVEL:      		1
+[16:46:19] Бонус MONEY:      		10000000
+[16:46:19] Бонус DONATE:      		10000
+[16:46:19] BlackMarket работает
+[16:46:19] Цена на акссесуары:      	60000000
+[16:46:19] Цена на машины:      		50000000
+[16:46:19] Цена на скины:      		40000000
+[16:46:19] Сколько заработано:      	450000000
+[16:46:19] Загружено биллбордов:      	50
+[16:46:19] Репорты не найдены.
+[16:46:19] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 1мс.
+[16:46:20] Загружено домов:		870
+[16:46:20] Загружено бизнесов:		185
+[16:46:20] Загружено авто:		70
+[16:46:20] Загружено семей:		1
+[16:46:20] Загружено паркингов:		38
+[16:46:20] Создано транспорта:		868
+[16:46:20] Создано объектов:		48247
+[16:46:20] Создано гангзон:		101
+[16:46:20] Сервер успешно запустился!
+[16:46:20] Number of vehicle models: 132
+[16:47:57] [connection] 127.0.0.1:59408 requests connection cookie.
+[16:47:58] [connection] incoming connection: 127.0.0.1:59408 id: 0
+[16:47:59] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[16:48:50] [death] Frank_Sherman died 255
+[16:48:53] [death] Frank_Sherman died 255
 
 ----------
 Loaded log file: "server_log.txt".
@@ -92,82 +93,86 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[01:08:07] filterscripts = ""  (string)
-[01:08:07] 
-[01:08:07] Server Plugins
-[01:08:07] --------------
-[01:08:07]  Loading plugin: mysql
-[01:08:07]  >> plugin.mysql: R39-6 successfully loaded.
-[01:08:07]   Loaded.
-[01:08:07]  Loading plugin: pawncmd
-[01:08:07] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
-[01:08:07]   Loaded.
-[01:08:07]  Loading plugin: sscanf
-[01:08:07] 
+[16:52:47] filterscripts = ""  (string)
+[16:52:47] 
+[16:52:47] Server Plugins
+[16:52:47] --------------
+[16:52:47]  Loading plugin: mysql
+[16:52:47]  >> plugin.mysql: R39-6 successfully loaded.
+[16:52:47]   Loaded.
+[16:52:47]  Loading plugin: pawncmd
+[16:52:47] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:52:47]   Loaded.
+[16:52:47]  Loading plugin: sscanf
+[16:52:47] 
 
-[01:08:07]  ===============================
+[16:52:47]  ===============================
 
-[01:08:07]       sscanf plugin loaded.     
+[16:52:47]       sscanf plugin loaded.     
 
-[01:08:07]          Version:  2.8.3        
+[16:52:47]          Version:  2.8.3        
 
-[01:08:07]   (c) 2018 Alex "Y_Less" Cole  
+[16:52:47]   (c) 2018 Alex "Y_Less" Cole  
 
-[01:08:07]  ===============================
+[16:52:47]  ===============================
 
-[01:08:07]   Loaded.
-[01:08:07]  Loading plugin: streamer
-[01:08:07] 
+[16:52:47]   Loaded.
+[16:52:47]  Loading plugin: streamer
+[16:52:47] 
 
 *** Streamer Plugin v2.9.4 by Incognito loaded ***
 
-[01:08:07]   Loaded.
-[01:08:07]  Loading plugin: md5
-[01:08:07]   MD5 v1.2 by BJIADOKC loaded
-[01:08:07]   Loaded.
-[01:08:07]  Loading plugin: TOTP
-[01:08:07] TOTP plugin v1.0.1 by Games loaded.
-[01:08:07]   Loaded.
-[01:08:07]  Loaded 6 plugins.
+[16:52:47]   Loaded.
+[16:52:47]  Loading plugin: md5
+[16:52:47]   MD5 v1.2 by BJIADOKC loaded
+[16:52:47]   Loaded.
+[16:52:47]  Loading plugin: TOTP
+[16:52:47] TOTP plugin v1.0.1 by Games loaded.
+[16:52:47]   Loaded.
+[16:52:47]  Loaded 6 plugins.
 
-[01:08:07] 
-[01:08:07] Filterscripts
-[01:08:07] ---------------
-[01:08:07]   Loaded 0 filterscripts.
+[16:52:48] 
+[16:52:48] Filterscripts
+[16:52:48] ---------------
+[16:52:48]   Loaded 0 filterscripts.
 
-[01:08:07]  
-[01:08:07] --------------------------------------
-[01:08:07]  Античит Nex-AC загружен!
-[01:08:07]  Версия античита: 1.9.49
-[01:08:07]  Автор: Nexius
-[01:08:07] --------------------------------------
+[16:52:48]  
+[16:52:48] --------------------------------------
+[16:52:48]  Античит Nex-AC загружен!
+[16:52:48]  Версия античита: 1.9.49
+[16:52:48]  Автор: Nexius
+[16:52:48] --------------------------------------
 
-[01:08:09] FullDostup успешно загружен
-[01:08:09] Бонус LEVEL:      		1
-[01:08:09] Бонус MONEY:      		10000000
-[01:08:09] Бонус DONATE:      		10000
-[01:08:09] BlackMarket работает
-[01:08:09] Цена на акссесуары:      	60000000
-[01:08:09] Цена на машины:      		50000000
-[01:08:09] Цена на скины:      		40000000
-[01:08:09] Сколько заработано:      	450000000
-[01:08:09] Загружено биллбордов:      	50
-[01:08:09] Репорты не найдены.
-[01:08:09] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 1мс.
-[01:08:10] Загружено домов:		874
-[01:08:10] Загружено бизнесов:		188
-[01:08:10] Загружено авто:		70
-[01:08:10] Загружено семей:		1
-[01:08:10] Загружено паркингов:		38
-[01:08:10] Создано транспорта:		868
-[01:08:10] Создано объектов:		50122
-[01:08:10] Создано гангзон:		101
-[01:08:10] Сервер успешно запустился!
-[01:08:10] Number of vehicle models: 132
-[01:08:16] [connection] 127.0.0.1:60907 requests connection cookie.
-[01:08:17] [connection] incoming connection: 127.0.0.1:60907 id: 0
-[01:08:17] [join] Maxim_Nazarov has joined the server (0:127.0.0.1)
-[01:09:04] [part] Maxim_Nazarov has left the server (0:1)
+[16:52:55] FullDostup успешно загружен
+[16:52:55] Бонус LEVEL:      		1
+[16:52:55] Бонус MONEY:      		10000000
+[16:52:55] Бонус DONATE:      		10000
+[16:52:55] BlackMarket работает
+[16:52:55] Цена на акссесуары:      	60000000
+[16:52:55] Цена на машины:      		50000000
+[16:52:55] Цена на скины:      		40000000
+[16:52:55] Сколько заработано:      	450000000
+[16:52:55] Загружено биллбордов:      	50
+[16:52:55] Репорты не найдены.
+[16:52:55] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[16:52:58] Загружено домов:		870
+[16:52:58] Загружено бизнесов:		185
+[16:52:58] Загружено авто:		70
+[16:52:58] Загружено семей:		1
+[16:52:58] Загружено паркингов:		38
+[16:52:58] Создано транспорта:		868
+[16:52:58] Создано объектов:		48247
+[16:52:58] Создано гангзон:		101
+[16:52:58] Сервер успешно запустился!
+[16:52:58] Number of vehicle models: 132
+[16:53:01] [connection] 127.0.0.1:63767 requests connection cookie.
+[16:53:02] [connection] incoming connection: 127.0.0.1:63767 id: 0
+[16:53:02] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[16:55:28] [part] Frank_Sherman has left the server (0:0)
+[16:56:19] [connection] 127.0.0.1:63970 requests connection cookie.
+[16:56:20] [connection] incoming connection: 127.0.0.1:63970 id: 0
+[16:56:20] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[18:19:42] [part] Frank_Sherman has left the server (0:1)
 
 ----------
 Loaded log file: "server_log.txt".
@@ -177,79 +182,1482 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[01:10:27] filterscripts = ""  (string)
-[01:10:27] 
-[01:10:27] Server Plugins
-[01:10:27] --------------
-[01:10:27]  Loading plugin: mysql
-[01:10:27]  >> plugin.mysql: R39-6 successfully loaded.
-[01:10:27]   Loaded.
-[01:10:27]  Loading plugin: pawncmd
-[01:10:27] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
-[01:10:27]   Loaded.
-[01:10:27]  Loading plugin: sscanf
-[01:10:27] 
+[18:23:24] filterscripts = ""  (string)
+[18:23:24] 
+[18:23:24] Server Plugins
+[18:23:24] --------------
+[18:23:24]  Loading plugin: mysql
+[18:23:24]  >> plugin.mysql: R39-6 successfully loaded.
+[18:23:24]   Loaded.
+[18:23:24]  Loading plugin: pawncmd
+[18:23:24] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:23:24]   Loaded.
+[18:23:24]  Loading plugin: sscanf
+[18:23:24] 
 
-[01:10:27]  ===============================
+[18:23:24]  ===============================
 
-[01:10:27]       sscanf plugin loaded.     
+[18:23:24]       sscanf plugin loaded.     
 
-[01:10:27]          Version:  2.8.3        
+[18:23:24]          Version:  2.8.3        
 
-[01:10:27]   (c) 2018 Alex "Y_Less" Cole  
+[18:23:24]   (c) 2018 Alex "Y_Less" Cole  
 
-[01:10:27]  ===============================
+[18:23:24]  ===============================
 
-[01:10:27]   Loaded.
-[01:10:27]  Loading plugin: streamer
-[01:10:27] 
+[18:23:24]   Loaded.
+[18:23:24]  Loading plugin: streamer
+[18:23:24] 
 
 *** Streamer Plugin v2.9.4 by Incognito loaded ***
 
-[01:10:27]   Loaded.
-[01:10:27]  Loading plugin: md5
-[01:10:27]   MD5 v1.2 by BJIADOKC loaded
-[01:10:27]   Loaded.
-[01:10:27]  Loading plugin: TOTP
-[01:10:27] TOTP plugin v1.0.1 by Games loaded.
-[01:10:27]   Loaded.
-[01:10:27]  Loaded 6 plugins.
+[18:23:24]   Loaded.
+[18:23:24]  Loading plugin: md5
+[18:23:25]   MD5 v1.2 by BJIADOKC loaded
+[18:23:25]   Loaded.
+[18:23:25]  Loading plugin: TOTP
+[18:23:25] TOTP plugin v1.0.1 by Games loaded.
+[18:23:25]   Loaded.
+[18:23:25]  Loaded 6 plugins.
 
-[01:10:27] 
-[01:10:27] Filterscripts
-[01:10:27] ---------------
-[01:10:27]   Loaded 0 filterscripts.
+[18:23:25] 
+[18:23:25] Filterscripts
+[18:23:25] ---------------
+[18:23:25]   Loaded 0 filterscripts.
 
-[01:10:27]  
-[01:10:27] --------------------------------------
-[01:10:27]  Античит Nex-AC загружен!
-[01:10:27]  Версия античита: 1.9.49
-[01:10:27]  Автор: Nexius
-[01:10:27] --------------------------------------
+[18:23:25]  
+[18:23:25] --------------------------------------
+[18:23:25]  Античит Nex-AC загружен!
+[18:23:25]  Версия античита: 1.9.49
+[18:23:25]  Автор: Nexius
+[18:23:25] --------------------------------------
 
-[01:10:29] FullDostup успешно загружен
-[01:10:29] Бонус LEVEL:      		1
-[01:10:29] Бонус MONEY:      		10000000
-[01:10:29] Бонус DONATE:      		10000
-[01:10:29] BlackMarket работает
-[01:10:29] Цена на акссесуары:      	60000000
-[01:10:29] Цена на машины:      		50000000
-[01:10:29] Цена на скины:      		40000000
-[01:10:29] Сколько заработано:      	450000000
-[01:10:29] Загружено биллбордов:      	50
-[01:10:29] Репорты не найдены.
-[01:10:29] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
-[01:10:30] Загружено домов:		874
-[01:10:30] Загружено бизнесов:		188
-[01:10:30] Загружено авто:		70
-[01:10:30] Загружено семей:		1
-[01:10:30] Загружено паркингов:		38
-[01:10:30] Создано транспорта:		868
-[01:10:30] Создано объектов:		50122
-[01:10:30] Создано гангзон:		101
-[01:10:30] Сервер успешно запустился!
-[01:10:30] Number of vehicle models: 132
-[01:10:36] [connection] 127.0.0.1:56532 requests connection cookie.
-[01:10:37] [connection] incoming connection: 127.0.0.1:56532 id: 0
-[01:10:38] [join] Maxim_Nazarov has joined the server (0:127.0.0.1)
-[01:11:10] [part] Maxim_Nazarov has left the server (0:1)
+[18:23:32] FullDostup успешно загружен
+[18:23:32] Бонус LEVEL:      		1
+[18:23:32] Бонус MONEY:      		10000000
+[18:23:32] Бонус DONATE:      		10000
+[18:23:32] BlackMarket работает
+[18:23:32] Цена на акссесуары:      	60000000
+[18:23:32] Цена на машины:      		50000000
+[18:23:32] Цена на скины:      		40000000
+[18:23:32] Сколько заработано:      	450000000
+[18:23:32] Загружено биллбордов:      	50
+[18:23:32] Репорты не найдены.
+[18:23:32] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[18:23:33] Загружено домов:		870
+[18:23:33] Загружено бизнесов:		185
+[18:23:33] Загружено авто:		70
+[18:23:33] Загружено семей:		1
+[18:23:33] Загружено паркингов:		38
+[18:23:33] Создано транспорта:		868
+[18:23:33] Создано объектов:		48247
+[18:23:33] Создано гангзон:		101
+[18:23:33] Сервер успешно запустился!
+[18:23:33] Number of vehicle models: 132
+[18:24:01] [connection] 127.0.0.1:55234 requests connection cookie.
+[18:24:02] [connection] incoming connection: 127.0.0.1:55234 id: 0
+[18:24:02] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[18:26:04] [part] Frank_Sherman has left the server (0:1)
+[18:34:51] [connection] 127.0.0.1:62920 requests connection cookie.
+[18:34:52] [connection] incoming connection: 127.0.0.1:62920 id: 0
+[18:34:52] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[18:43:33] [part] Frank_Sherman has left the server (0:1)
+[18:51:42] [connection] 127.0.0.1:53313 requests connection cookie.
+[18:51:47] [connection] incoming connection: 127.0.0.1:53313 id: 0
+[18:51:48] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[18:54:10] 
+[18:58:06] [part] Frank_Sherman has left the server (0:1)
+[18:58:57] [connection] 127.0.0.1:55383 requests connection cookie.
+[18:58:58] [connection] incoming connection: 127.0.0.1:55383 id: 0
+[18:58:58] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[19:00:03] [part] Frank_Sherman has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:46:28] filterscripts = ""  (string)
+[22:46:28] 
+[22:46:28] Server Plugins
+[22:46:28] --------------
+[22:46:28]  Loading plugin: mysql
+[22:46:29]  >> plugin.mysql: R39-6 successfully loaded.
+[22:46:29]   Loaded.
+[22:46:29]  Loading plugin: pawncmd
+[22:46:30] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:46:30]   Loaded.
+[22:46:30]  Loading plugin: sscanf
+[22:46:30] 
+
+[22:46:30]  ===============================
+
+[22:46:30]       sscanf plugin loaded.     
+
+[22:46:30]          Version:  2.8.3        
+
+[22:46:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:46:30]  ===============================
+
+[22:46:30]   Loaded.
+[22:46:30]  Loading plugin: streamer
+[22:46:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:46:30]   Loaded.
+[22:46:30]  Loading plugin: md5
+[22:46:31]   MD5 v1.2 by BJIADOKC loaded
+[22:46:31]   Loaded.
+[22:46:31]  Loading plugin: TOTP
+[22:46:31] TOTP plugin v1.0.1 by Games loaded.
+[22:46:31]   Loaded.
+[22:46:31]  Loaded 6 plugins.
+
+[22:46:31] 
+[22:46:31] Filterscripts
+[22:46:31] ---------------
+[22:46:31]   Loaded 0 filterscripts.
+
+[22:46:32]  
+[22:46:32] --------------------------------------
+[22:46:32]  Античит Nex-AC загружен!
+[22:46:32]  Версия античита: 1.9.49
+[22:46:32]  Автор: Nexius
+[22:46:32] --------------------------------------
+
+[22:46:43] FullDostup успешно загружен
+[22:46:44] Бонус LEVEL:      		1
+[22:46:44] Бонус MONEY:      		10000000
+[22:46:44] Бонус DONATE:      		10000
+[22:46:44] BlackMarket работает
+[22:46:44] Цена на акссесуары:      	60000000
+[22:46:44] Цена на машины:      		50000000
+[22:46:44] Цена на скины:      		40000000
+[22:46:44] Сколько заработано:      	450000000
+[22:46:44] Загружено биллбордов:      	50
+[22:46:44] Репорты не найдены.
+[22:46:44] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 1мс.
+[22:46:46] Загружено домов:		870
+[22:46:46] Загружено бизнесов:		185
+[22:46:46] Загружено авто:		70
+[22:46:46] Загружено семей:		1
+[22:46:46] Загружено паркингов:		38
+[22:46:46] Создано транспорта:		868
+[22:46:46] Создано объектов:		48247
+[22:46:46] Создано гангзон:		101
+[22:46:46] Сервер успешно запустился!
+[22:46:46] Number of vehicle models: 132
+[22:47:30] [connection] 127.0.0.1:54705 requests connection cookie.
+[22:47:31] [connection] incoming connection: 127.0.0.1:54705 id: 0
+[22:47:31] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[22:51:37] [part] Frank_Sherman has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:00:47] filterscripts = ""  (string)
+[23:00:47] 
+[23:00:47] Server Plugins
+[23:00:47] --------------
+[23:00:47]  Loading plugin: mysql
+[23:00:47]  >> plugin.mysql: R39-6 successfully loaded.
+[23:00:47]   Loaded.
+[23:00:47]  Loading plugin: pawncmd
+[23:00:47] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:00:47]   Loaded.
+[23:00:47]  Loading plugin: sscanf
+[23:00:47] 
+
+[23:00:47]  ===============================
+
+[23:00:47]       sscanf plugin loaded.     
+
+[23:00:47]          Version:  2.8.3        
+
+[23:00:47]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:00:47]  ===============================
+
+[23:00:47]   Loaded.
+[23:00:47]  Loading plugin: streamer
+[23:00:47] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:00:47]   Loaded.
+[23:00:47]  Loading plugin: md5
+[23:00:47]   MD5 v1.2 by BJIADOKC loaded
+[23:00:47]   Loaded.
+[23:00:47]  Loading plugin: TOTP
+[23:00:47] TOTP plugin v1.0.1 by Games loaded.
+[23:00:47]   Loaded.
+[23:00:47]  Loaded 6 plugins.
+
+[23:00:47] 
+[23:00:47] Filterscripts
+[23:00:47] ---------------
+[23:00:47]   Loaded 0 filterscripts.
+
+[23:00:48]  
+[23:00:48] --------------------------------------
+[23:00:48]  Античит Nex-AC загружен!
+[23:00:48]  Версия античита: 1.9.49
+[23:00:48]  Автор: Nexius
+[23:00:48] --------------------------------------
+
+[23:00:51] FullDostup успешно загружен
+[23:00:51] Бонус LEVEL:      		1
+[23:00:51] Бонус MONEY:      		10000000
+[23:00:51] Бонус DONATE:      		10000
+[23:00:51] BlackMarket работает
+[23:00:51] Цена на акссесуары:      	60000000
+[23:00:51] Цена на машины:      		50000000
+[23:00:51] Цена на скины:      		40000000
+[23:00:51] Сколько заработано:      	450000000
+[23:00:51] Загружено биллбордов:      	50
+[23:00:51] Репорты не найдены.
+[23:00:51] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[23:00:53] Загружено домов:		870
+[23:00:53] Загружено бизнесов:		185
+[23:00:53] Загружено авто:		70
+[23:00:53] Загружено семей:		1
+[23:00:53] Загружено паркингов:		38
+[23:00:53] Создано транспорта:		868
+[23:00:53] Создано объектов:		48247
+[23:00:53] Создано гангзон:		101
+[23:00:53] Сервер успешно запустился!
+[23:00:53] Number of vehicle models: 132
+[23:01:23] [connection] 127.0.0.1:57754 requests connection cookie.
+[23:01:24] [connection] incoming connection: 127.0.0.1:57754 id: 0
+[23:01:24] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[23:37:09] [part] Frank_Sherman has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:41:37] filterscripts = ""  (string)
+[23:41:37] 
+[23:41:37] Server Plugins
+[23:41:37] --------------
+[23:41:37]  Loading plugin: mysql
+[23:41:37]  >> plugin.mysql: R39-6 successfully loaded.
+[23:41:37]   Loaded.
+[23:41:37]  Loading plugin: pawncmd
+[23:41:37] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:41:37]   Loaded.
+[23:41:37]  Loading plugin: sscanf
+[23:41:37] 
+
+[23:41:37]  ===============================
+
+[23:41:37]       sscanf plugin loaded.     
+
+[23:41:37]          Version:  2.8.3        
+
+[23:41:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:41:37]  ===============================
+
+[23:41:37]   Loaded.
+[23:41:37]  Loading plugin: streamer
+[23:41:37] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:41:37]   Loaded.
+[23:41:37]  Loading plugin: md5
+[23:41:37]   MD5 v1.2 by BJIADOKC loaded
+[23:41:37]   Loaded.
+[23:41:37]  Loading plugin: TOTP
+[23:41:37] TOTP plugin v1.0.1 by Games loaded.
+[23:41:37]   Loaded.
+[23:41:37]  Loaded 6 plugins.
+
+[23:41:38] 
+[23:41:38] Filterscripts
+[23:41:38] ---------------
+[23:41:38]   Loaded 0 filterscripts.
+
+[23:41:38]  
+[23:41:38] --------------------------------------
+[23:41:38]  Античит Nex-AC загружен!
+[23:41:38]  Версия античита: 1.9.49
+[23:41:38]  Автор: Nexius
+[23:41:38] --------------------------------------
+
+[23:41:43] FullDostup успешно загружен
+[23:41:43] Бонус LEVEL:      		1
+[23:41:43] Бонус MONEY:      		10000000
+[23:41:43] Бонус DONATE:      		10000
+[23:41:43] BlackMarket работает
+[23:41:43] Цена на акссесуары:      	60000000
+[23:41:43] Цена на машины:      		50000000
+[23:41:43] Цена на скины:      		40000000
+[23:41:43] Сколько заработано:      	450000000
+[23:41:43] Загружено биллбордов:      	50
+[23:41:43] Репорты не найдены.
+[23:41:43] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[23:41:45] Загружено домов:		870
+[23:41:45] Загружено бизнесов:		185
+[23:41:45] Загружено авто:		70
+[23:41:45] Загружено семей:		1
+[23:41:45] Загружено паркингов:		38
+[23:41:45] Создано транспорта:		868
+[23:41:45] Создано объектов:		48247
+[23:41:45] Создано гангзон:		101
+[23:41:45] Сервер успешно запустился!
+[23:41:45] Number of vehicle models: 132
+[23:42:09] [connection] 127.0.0.1:50865 requests connection cookie.
+[23:42:10] [connection] incoming connection: 127.0.0.1:50865 id: 0
+[23:42:10] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[23:43:05] [part] Frank_Sherman has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:46:02] filterscripts = ""  (string)
+[23:46:02] 
+[23:46:03] Server Plugins
+[23:46:03] --------------
+[23:46:03]  Loading plugin: mysql
+[23:46:03]  >> plugin.mysql: R39-6 successfully loaded.
+[23:46:03]   Loaded.
+[23:46:03]  Loading plugin: pawncmd
+[23:46:03] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:46:03]   Loaded.
+[23:46:03]  Loading plugin: sscanf
+[23:46:03] 
+
+[23:46:03]  ===============================
+
+[23:46:03]       sscanf plugin loaded.     
+
+[23:46:03]          Version:  2.8.3        
+
+[23:46:03]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:46:03]  ===============================
+
+[23:46:03]   Loaded.
+[23:46:03]  Loading plugin: streamer
+[23:46:03] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:46:03]   Loaded.
+[23:46:03]  Loading plugin: md5
+[23:46:03]   MD5 v1.2 by BJIADOKC loaded
+[23:46:03]   Loaded.
+[23:46:03]  Loading plugin: TOTP
+[23:46:03] TOTP plugin v1.0.1 by Games loaded.
+[23:46:03]   Loaded.
+[23:46:03]  Loaded 6 plugins.
+
+[23:46:03] 
+[23:46:03] Filterscripts
+[23:46:03] ---------------
+[23:46:03]   Loaded 0 filterscripts.
+
+[23:46:03]  
+[23:46:03] --------------------------------------
+[23:46:03]  Античит Nex-AC загружен!
+[23:46:03]  Версия античита: 1.9.49
+[23:46:03]  Автор: Nexius
+[23:46:03] --------------------------------------
+
+[23:46:07] FullDostup успешно загружен
+[23:46:07] Бонус LEVEL:      		1
+[23:46:07] Бонус MONEY:      		10000000
+[23:46:07] Бонус DONATE:      		10000
+[23:46:07] BlackMarket работает
+[23:46:07] Цена на акссесуары:      	60000000
+[23:46:07] Цена на машины:      		50000000
+[23:46:07] Цена на скины:      		40000000
+[23:46:07] Сколько заработано:      	450000000
+[23:46:07] Загружено биллбордов:      	50
+[23:46:07] Репорты не найдены.
+[23:46:07] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[23:46:08] Загружено домов:		870
+[23:46:08] Загружено бизнесов:		185
+[23:46:08] Загружено авто:		70
+[23:46:08] Загружено семей:		1
+[23:46:08] Загружено паркингов:		38
+[23:46:09] Создано транспорта:		868
+[23:46:09] Создано объектов:		48247
+[23:46:09] Создано гангзон:		101
+[23:46:09] Сервер успешно запустился!
+[23:46:09] Number of vehicle models: 132
+[23:46:49] [connection] 127.0.0.1:50039 requests connection cookie.
+[23:46:50] [connection] incoming connection: 127.0.0.1:50039 id: 0
+[23:46:50] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[23:50:25] [part] Frank_Sherman has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:51:15] filterscripts = ""  (string)
+[23:51:15] 
+[23:51:15] Server Plugins
+[23:51:15] --------------
+[23:51:15]  Loading plugin: mysql
+[23:51:16]  >> plugin.mysql: R39-6 successfully loaded.
+[23:51:16]   Loaded.
+[23:51:16]  Loading plugin: pawncmd
+[23:51:16] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:51:16]   Loaded.
+[23:51:16]  Loading plugin: sscanf
+[23:51:16] 
+
+[23:51:16]  ===============================
+
+[23:51:16]       sscanf plugin loaded.     
+
+[23:51:16]          Version:  2.8.3        
+
+[23:51:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:51:16]  ===============================
+
+[23:51:16]   Loaded.
+[23:51:16]  Loading plugin: streamer
+[23:51:16] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:51:16]   Loaded.
+[23:51:16]  Loading plugin: md5
+[23:51:16]   MD5 v1.2 by BJIADOKC loaded
+[23:51:16]   Loaded.
+[23:51:16]  Loading plugin: TOTP
+[23:51:16] TOTP plugin v1.0.1 by Games loaded.
+[23:51:16]   Loaded.
+[23:51:16]  Loaded 6 plugins.
+
+[23:51:16] 
+[23:51:16] Filterscripts
+[23:51:16] ---------------
+[23:51:16]   Loaded 0 filterscripts.
+
+[23:51:16]  
+[23:51:16] --------------------------------------
+[23:51:16]  Античит Nex-AC загружен!
+[23:51:16]  Версия античита: 1.9.49
+[23:51:17]  Автор: Nexius
+[23:51:17] --------------------------------------
+
+[23:51:20] FullDostup успешно загружен
+[23:51:20] Бонус LEVEL:      		1
+[23:51:20] Бонус MONEY:      		10000000
+[23:51:20] Бонус DONATE:      		10000
+[23:51:20] BlackMarket работает
+[23:51:20] Цена на акссесуары:      	60000000
+[23:51:20] Цена на машины:      		50000000
+[23:51:20] Цена на скины:      		40000000
+[23:51:20] Сколько заработано:      	450000000
+[23:51:20] Загружено биллбордов:      	50
+[23:51:20] Репорты не найдены.
+[23:51:20] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[23:51:22] Загружено домов:		870
+[23:51:22] Загружено бизнесов:		185
+[23:51:22] Загружено авто:		70
+[23:51:22] Загружено семей:		1
+[23:51:22] Загружено паркингов:		38
+[23:51:22] Создано транспорта:		868
+[23:51:22] Создано объектов:		48247
+[23:51:22] Создано гангзон:		101
+[23:51:22] Сервер успешно запустился!
+[23:51:22] Number of vehicle models: 132
+[23:51:46] [connection] 127.0.0.1:62333 requests connection cookie.
+[23:51:47] [connection] incoming connection: 127.0.0.1:62333 id: 0
+[23:51:47] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[00:18:13] [part] Frank_Sherman has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:18:27] 
+[00:18:27] Server Plugins
+[00:18:27] --------------
+[00:18:27]  Loading plugin: mysql
+[00:18:27]  >> plugin.mysql: R39-6 successfully loaded.
+[00:18:27]   Loaded.
+[00:18:27]  Loading plugin: pawncmd
+[00:18:27] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:18:27]   Loaded.
+[00:18:27]  Loading plugin: sscanf
+[00:18:27] 
+
+[00:18:27]  ===============================
+
+[00:18:27]       sscanf plugin loaded.     
+
+[00:18:27]          Version:  2.8.3        
+
+[00:18:27]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:18:27]  ===============================
+
+[00:18:27]   Loaded.
+[00:18:27]  Loading plugin: streamer
+[00:18:27] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:18:27]   Loaded.
+[00:18:27]  Loading plugin: md5
+[00:18:27]   MD5 v1.2 by BJIADOKC loaded
+[00:18:27]   Loaded.
+[00:18:27]  Loading plugin: TOTP
+[00:18:27] TOTP plugin v1.0.1 by Games loaded.
+[00:18:27]   Loaded.
+[00:18:27]  Loaded 6 plugins.
+
+[00:18:27] 
+[00:18:27] Filterscripts
+[00:18:27] ---------------
+[00:18:27]   Loading filterscript 'duel.amx'...
+[00:18:27]   Loaded 1 filterscripts.
+
+[00:18:27]  
+[00:18:27] --------------------------------------
+[00:18:27]  Античит Nex-AC загружен!
+[00:18:27]  Версия античита: 1.9.49
+[00:18:27]  Автор: Nexius
+[00:18:27] --------------------------------------
+
+[00:18:31] FullDostup успешно загружен
+[00:18:32] Бонус LEVEL:      		1
+[00:18:32] Бонус MONEY:      		10000000
+[00:18:32] Бонус DONATE:      		10000
+[00:18:32] BlackMarket работает
+[00:18:32] Цена на акссесуары:      	60000000
+[00:18:32] Цена на машины:      		50000000
+[00:18:32] Цена на скины:      		40000000
+[00:18:32] Сколько заработано:      	450000000
+[00:18:32] Загружено биллбордов:      	50
+[00:18:32] Репорты не найдены.
+[00:18:32] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[00:18:33] Загружено домов:		870
+[00:18:33] Загружено бизнесов:		185
+[00:18:33] Загружено авто:		70
+[00:18:33] Загружено семей:		1
+[00:18:33] Загружено паркингов:		38
+[00:18:33] Создано транспорта:		868
+[00:18:33] Создано объектов:		48247
+[00:18:33] Создано гангзон:		101
+[00:18:33] Сервер успешно запустился!
+[00:18:33] Number of vehicle models: 132
+[00:18:59] [connection] 127.0.0.1:60254 requests connection cookie.
+[00:19:00] [connection] incoming connection: 127.0.0.1:60254 id: 0
+[00:19:00] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[00:27:42] [part] Frank_Sherman has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:28:04] 
+[00:28:04] Server Plugins
+[00:28:04] --------------
+[00:28:04]  Loading plugin: mysql
+[00:28:04]  >> plugin.mysql: R39-6 successfully loaded.
+[00:28:04]   Loaded.
+[00:28:04]  Loading plugin: pawncmd
+[00:28:04] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:28:04]   Loaded.
+[00:28:04]  Loading plugin: sscanf
+[00:28:04] 
+
+[00:28:04]  ===============================
+
+[00:28:04]       sscanf plugin loaded.     
+
+[00:28:04]          Version:  2.8.3        
+
+[00:28:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:28:04]  ===============================
+
+[00:28:04]   Loaded.
+[00:28:04]  Loading plugin: streamer
+[00:28:04] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:28:04]   Loaded.
+[00:28:04]  Loading plugin: md5
+[00:28:04]   MD5 v1.2 by BJIADOKC loaded
+[00:28:04]   Loaded.
+[00:28:04]  Loading plugin: TOTP
+[00:28:04] TOTP plugin v1.0.1 by Games loaded.
+[00:28:04]   Loaded.
+[00:28:04]  Loaded 6 plugins.
+
+[00:28:04] 
+[00:28:04] Filterscripts
+[00:28:04] ---------------
+[00:28:04]   Loading filterscript 'duel.amx'...
+[00:28:04]   Loaded 1 filterscripts.
+
+[00:28:04]  
+[00:28:04] --------------------------------------
+[00:28:04]  Античит Nex-AC загружен!
+[00:28:04]  Версия античита: 1.9.49
+[00:28:04]  Автор: Nexius
+[00:28:04] --------------------------------------
+
+[00:28:08] FullDostup успешно загружен
+[00:28:08] Бонус LEVEL:      		1
+[00:28:08] Бонус MONEY:      		10000000
+[00:28:08] Бонус DONATE:      		10000
+[00:28:08] BlackMarket работает
+[00:28:08] Цена на акссесуары:      	60000000
+[00:28:08] Цена на машины:      		50000000
+[00:28:08] Цена на скины:      		40000000
+[00:28:08] Сколько заработано:      	450000000
+[00:28:08] Загружено биллбордов:      	50
+[00:28:08] Репорты не найдены.
+[00:28:08] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 1мс.
+[00:28:09] Загружено домов:		870
+[00:28:09] Загружено бизнесов:		185
+[00:28:09] Загружено авто:		70
+[00:28:09] Загружено семей:		1
+[00:28:09] Загружено паркингов:		38
+[00:28:09] Создано транспорта:		868
+[00:28:09] Создано объектов:		48453
+[00:28:09] Создано гангзон:		101
+[00:28:09] Сервер успешно запустился!
+[00:28:09] Number of vehicle models: 132
+[00:28:33] [connection] 127.0.0.1:54219 requests connection cookie.
+[00:28:34] [connection] incoming connection: 127.0.0.1:54219 id: 0
+[00:28:34] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[00:29:03] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[00:34:25] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:44:09] 
+[00:44:09] Server Plugins
+[00:44:09] --------------
+[00:44:09]  Loading plugin: mysql
+[00:44:09]  >> plugin.mysql: R39-6 successfully loaded.
+[00:44:09]   Loaded.
+[00:44:09]  Loading plugin: pawncmd
+[00:44:09] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:44:09]   Loaded.
+[00:44:09]  Loading plugin: sscanf
+[00:44:09] 
+
+[00:44:09]  ===============================
+
+[00:44:09]       sscanf plugin loaded.     
+
+[00:44:09]          Version:  2.8.3        
+
+[00:44:09]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:44:09]  ===============================
+
+[00:44:09]   Loaded.
+[00:44:09]  Loading plugin: streamer
+[00:44:09] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:44:09]   Loaded.
+[00:44:09]  Loading plugin: md5
+[00:44:09]   MD5 v1.2 by BJIADOKC loaded
+[00:44:09]   Loaded.
+[00:44:09]  Loading plugin: TOTP
+[00:44:09] TOTP plugin v1.0.1 by Games loaded.
+[00:44:09]   Loaded.
+[00:44:09]  Loaded 6 plugins.
+
+[00:44:09] 
+[00:44:09] Filterscripts
+[00:44:09] ---------------
+[00:44:09]   Loading filterscript 'duel.amx'...
+[00:44:09]   Loaded 1 filterscripts.
+
+[00:44:09]  
+[00:44:09] --------------------------------------
+[00:44:09]  Античит Nex-AC загружен!
+[00:44:09]  Версия античита: 1.9.49
+[00:44:09]  Автор: Nexius
+[00:44:09] --------------------------------------
+
+[00:44:16] FullDostup успешно загружен
+[00:44:16] Бонус LEVEL:      		1
+[00:44:16] Бонус MONEY:      		10000000
+[00:44:16] Бонус DONATE:      		10000
+[00:44:16] BlackMarket работает
+[00:44:16] Цена на акссесуары:      	60000000
+[00:44:16] Цена на машины:      		50000000
+[00:44:16] Цена на скины:      		40000000
+[00:44:16] Сколько заработано:      	450000000
+[00:44:16] Загружено биллбордов:      	50
+[00:44:16] Репорты не найдены.
+[00:44:16] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 1мс.
+[00:44:18] Загружено домов:		870
+[00:44:18] Загружено бизнесов:		185
+[00:44:18] Загружено авто:		70
+[00:44:18] Загружено семей:		1
+[00:44:18] Загружено паркингов:		38
+[00:44:18] Создано транспорта:		868
+[00:44:18] Создано объектов:		48453
+[00:44:18] Создано гангзон:		101
+[00:44:18] Сервер успешно запустился!
+[00:44:19] Number of vehicle models: 132
+[00:44:43] [connection] 127.0.0.1:53128 requests connection cookie.
+[00:44:44] [connection] incoming connection: 127.0.0.1:53128 id: 0
+[00:44:45] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[00:45:18] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:58:26] 
+[00:58:26] Server Plugins
+[00:58:26] --------------
+[00:58:26]  Loading plugin: mysql
+[00:58:26]  >> plugin.mysql: R39-6 successfully loaded.
+[00:58:26]   Loaded.
+[00:58:26]  Loading plugin: pawncmd
+[00:58:26] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:58:26]   Loaded.
+[00:58:26]  Loading plugin: sscanf
+[00:58:26] 
+
+[00:58:26]  ===============================
+
+[00:58:26]       sscanf plugin loaded.     
+
+[00:58:26]          Version:  2.8.3        
+
+[00:58:26]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:58:26]  ===============================
+
+[00:58:26]   Loaded.
+[00:58:26]  Loading plugin: streamer
+[00:58:26] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:58:26]   Loaded.
+[00:58:26]  Loading plugin: md5
+[00:58:26]   MD5 v1.2 by BJIADOKC loaded
+[00:58:26]   Loaded.
+[00:58:26]  Loading plugin: TOTP
+[00:58:26] TOTP plugin v1.0.1 by Games loaded.
+[00:58:26]   Loaded.
+[00:58:26]  Loaded 6 plugins.
+
+[00:58:26] 
+[00:58:26] Filterscripts
+[00:58:26] ---------------
+[00:58:26]   Loading filterscript 'duel.amx'...
+[00:58:26]   Loaded 1 filterscripts.
+
+[00:58:26]  
+[00:58:26] --------------------------------------
+[00:58:26]  Античит Nex-AC загружен!
+[00:58:26]  Версия античита: 1.9.49
+[00:58:26]  Автор: Nexius
+[00:58:26] --------------------------------------
+
+[00:58:29] FullDostup успешно загружен
+[00:58:30] Бонус LEVEL:      		1
+[00:58:30] Бонус MONEY:      		10000000
+[00:58:30] Бонус DONATE:      		10000
+[00:58:30] BlackMarket работает
+[00:58:30] Цена на акссесуары:      	60000000
+[00:58:30] Цена на машины:      		50000000
+[00:58:30] Цена на скины:      		40000000
+[00:58:30] Сколько заработано:      	450000000
+[00:58:30] Загружено биллбордов:      	50
+[00:58:30] Репорты не найдены.
+[00:58:30] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 1мс.
+[00:58:30] Загружено домов:		870
+[00:58:30] Загружено бизнесов:		185
+[00:58:30] Загружено авто:		70
+[00:58:30] Загружено семей:		1
+[00:58:30] Загружено паркингов:		38
+[00:58:30] Создано транспорта:		868
+[00:58:30] Создано объектов:		48453
+[00:58:30] Создано гангзон:		101
+[00:58:30] Сервер успешно запустился!
+[00:58:30] Number of vehicle models: 132
+[00:58:57] [connection] 127.0.0.1:53112 requests connection cookie.
+[00:58:58] [connection] incoming connection: 127.0.0.1:53112 id: 0
+[00:58:58] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:02:54] 
+[01:02:54] Server Plugins
+[01:02:54] --------------
+[01:02:54]  Loading plugin: mysql
+[01:02:54]  >> plugin.mysql: R39-6 successfully loaded.
+[01:02:54]   Loaded.
+[01:02:54]  Loading plugin: pawncmd
+[01:02:54] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[01:02:54]   Loaded.
+[01:02:54]  Loading plugin: sscanf
+[01:02:54] 
+
+[01:02:54]  ===============================
+
+[01:02:54]       sscanf plugin loaded.     
+
+[01:02:54]          Version:  2.8.3        
+
+[01:02:54]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:02:54]  ===============================
+
+[01:02:54]   Loaded.
+[01:02:54]  Loading plugin: streamer
+[01:02:54] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:02:54]   Loaded.
+[01:02:54]  Loading plugin: md5
+[01:02:54]   MD5 v1.2 by BJIADOKC loaded
+[01:02:54]   Loaded.
+[01:02:54]  Loading plugin: TOTP
+[01:02:54] TOTP plugin v1.0.1 by Games loaded.
+[01:02:54]   Loaded.
+[01:02:54]  Loading plugin: CRP
+[01:02:55] 
+
+[01:02:55] ______________________________________
+
+[01:02:55]  Convert Rus To Pwn v0.1.1 loaded
+[01:02:55] ______________________________________
+
+[01:02:55]  By: Fro (c) Copyright <TBG> 2009-2011
+[01:02:55] ______________________________________
+
+[01:02:55]   Loaded.
+[01:02:55]  Loaded 7 plugins.
+
+[01:02:55] 
+[01:02:55] Filterscripts
+[01:02:55] ---------------
+[01:02:55]   Loading filterscript 'duel.amx'...
+[01:02:55]   Loaded 1 filterscripts.
+
+[01:02:55]  
+[01:02:55] --------------------------------------
+[01:02:55]  Античит Nex-AC загружен!
+[01:02:55]  Версия античита: 1.9.49
+[01:02:55]  Автор: Nexius
+[01:02:55] --------------------------------------
+
+[01:02:59] FullDostup успешно загружен
+[01:02:59] Бонус LEVEL:      		1
+[01:02:59] Бонус MONEY:      		10000000
+[01:02:59] Бонус DONATE:      		10000
+[01:02:59] BlackMarket работает
+[01:02:59] Цена на акссесуары:      	60000000
+[01:02:59] Цена на машины:      		50000000
+[01:02:59] Цена на скины:      		40000000
+[01:02:59] Сколько заработано:      	450000000
+[01:02:59] Загружено биллбордов:      	50
+[01:02:59] Репорты не найдены.
+[01:02:59] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[01:03:01] Загружено домов:		870
+[01:03:01] Загружено бизнесов:		185
+[01:03:01] Загружено авто:		70
+[01:03:01] Загружено семей:		1
+[01:03:01] Загружено паркингов:		38
+[01:03:01] Создано транспорта:		868
+[01:03:01] Создано объектов:		48453
+[01:03:01] Создано гангзон:		101
+[01:03:01] Сервер успешно запустился!
+[01:03:01] Number of vehicle models: 132
+[01:03:23] [connection] 127.0.0.1:57269 requests connection cookie.
+[01:03:24] [connection] incoming connection: 127.0.0.1:57269 id: 0
+[01:03:24] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[01:04:42] [part] Frank_Sherman has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:08:19] 
+[01:08:19] Server Plugins
+[01:08:19] --------------
+[01:08:19]  Loading plugin: mysql
+[01:08:19]  >> plugin.mysql: R39-6 successfully loaded.
+[01:08:19]   Loaded.
+[01:08:19]  Loading plugin: pawncmd
+[01:08:19] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[01:08:19]   Loaded.
+[01:08:19]  Loading plugin: sscanf
+[01:08:19] 
+
+[01:08:19]  ===============================
+
+[01:08:19]       sscanf plugin loaded.     
+
+[01:08:19]          Version:  2.8.3        
+
+[01:08:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:08:19]  ===============================
+
+[01:08:19]   Loaded.
+[01:08:19]  Loading plugin: streamer
+[01:08:19] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:08:19]   Loaded.
+[01:08:19]  Loading plugin: md5
+[01:08:19]   MD5 v1.2 by BJIADOKC loaded
+[01:08:19]   Loaded.
+[01:08:19]  Loading plugin: TOTP
+[01:08:19] TOTP plugin v1.0.1 by Games loaded.
+[01:08:19]   Loaded.
+[01:08:19]  Loading plugin: CRP
+[01:08:19] 
+
+[01:08:19] ______________________________________
+
+[01:08:19]  Convert Rus To Pwn v0.1.1 loaded
+[01:08:19] ______________________________________
+
+[01:08:19]  By: Fro (c) Copyright <TBG> 2009-2011
+[01:08:19] ______________________________________
+
+[01:08:19]   Loaded.
+[01:08:19]  Loaded 7 plugins.
+
+[01:08:19] 
+[01:08:19] Filterscripts
+[01:08:19] ---------------
+[01:08:19]   Loading filterscript 'duel.amx'...
+[01:08:19]   Loaded 1 filterscripts.
+
+[01:08:19]  
+[01:08:19] --------------------------------------
+[01:08:19]  Античит Nex-AC загружен!
+[01:08:19]  Версия античита: 1.9.49
+[01:08:19]  Автор: Nexius
+[01:08:19] --------------------------------------
+
+[01:08:25] FullDostup успешно загружен
+[01:08:25] Бонус LEVEL:      		1
+[01:08:25] Бонус MONEY:      		10000000
+[01:08:25] Бонус DONATE:      		10000
+[01:08:25] BlackMarket работает
+[01:08:25] Цена на акссесуары:      	60000000
+[01:08:25] Цена на машины:      		50000000
+[01:08:25] Цена на скины:      		40000000
+[01:08:25] Сколько заработано:      	450000000
+[01:08:25] Загружено биллбордов:      	50
+[01:08:25] Репорты не найдены.
+[01:08:25] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 1мс.
+[01:08:25] Загружено домов:		870
+[01:08:25] Загружено бизнесов:		185
+[01:08:25] Загружено авто:		70
+[01:08:25] Загружено семей:		1
+[01:08:25] Загружено паркингов:		38
+[01:08:25] Создано транспорта:		868
+[01:08:25] Создано объектов:		48453
+[01:08:25] Создано гангзон:		101
+[01:08:25] Сервер успешно запустился!
+[01:08:25] Number of vehicle models: 132
+[01:08:47] [connection] 127.0.0.1:53726 requests connection cookie.
+[01:08:48] [connection] incoming connection: 127.0.0.1:53726 id: 0
+[01:08:48] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[01:09:15] [part] Frank_Sherman has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:12:12] 
+[01:12:12] Server Plugins
+[01:12:12] --------------
+[01:12:12]  Loading plugin: mysql
+[01:12:12]  >> plugin.mysql: R39-6 successfully loaded.
+[01:12:12]   Loaded.
+[01:12:12]  Loading plugin: pawncmd
+[01:12:12] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[01:12:12]   Loaded.
+[01:12:12]  Loading plugin: sscanf
+[01:12:12] 
+
+[01:12:12]  ===============================
+
+[01:12:12]       sscanf plugin loaded.     
+
+[01:12:12]          Version:  2.8.3        
+
+[01:12:12]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:12:12]  ===============================
+
+[01:12:12]   Loaded.
+[01:12:12]  Loading plugin: streamer
+[01:12:12] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:12:12]   Loaded.
+[01:12:12]  Loading plugin: md5
+[01:12:13]   MD5 v1.2 by BJIADOKC loaded
+[01:12:13]   Loaded.
+[01:12:13]  Loading plugin: TOTP
+[01:12:13] TOTP plugin v1.0.1 by Games loaded.
+[01:12:13]   Loaded.
+[01:12:13]  Loading plugin: CRP
+[01:12:13] 
+
+[01:12:13] ______________________________________
+
+[01:12:13]  Convert Rus To Pwn v0.1.1 loaded
+[01:12:13] ______________________________________
+
+[01:12:13]  By: Fro (c) Copyright <TBG> 2009-2011
+[01:12:13] ______________________________________
+
+[01:12:13]   Loaded.
+[01:12:13]  Loaded 7 plugins.
+
+[01:12:13] 
+[01:12:14] Filterscripts
+[01:12:14] ---------------
+[01:12:14]   Loading filterscript 'duel.amx'...
+[01:12:14]   Loaded 1 filterscripts.
+
+[01:12:15]  
+[01:12:15] --------------------------------------
+[01:12:15]  Античит Nex-AC загружен!
+[01:12:15]  Версия античита: 1.9.49
+[01:12:15]  Автор: Nexius
+[01:12:15] --------------------------------------
+
+[01:12:23] FullDostup успешно загружен
+[01:12:23] Бонус LEVEL:      		1
+[01:12:23] Бонус MONEY:      		10000000
+[01:12:23] Бонус DONATE:      		10000
+[01:12:23] BlackMarket работает
+[01:12:23] Цена на акссесуары:      	60000000
+[01:12:23] Цена на машины:      		50000000
+[01:12:23] Цена на скины:      		40000000
+[01:12:23] Сколько заработано:      	450000000
+[01:12:23] Загружено биллбордов:      	50
+[01:12:23] Репорты не найдены.
+[01:12:23] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[01:12:25] Загружено домов:		870
+[01:12:26] Загружено бизнесов:		185
+[01:12:26] Загружено авто:		70
+[01:12:26] Загружено семей:		1
+[01:12:26] Загружено паркингов:		38
+[01:12:26] Создано транспорта:		868
+[01:12:26] Создано объектов:		48453
+[01:12:26] Создано гангзон:		101
+[01:12:26] Сервер успешно запустился!
+[01:12:26] Number of vehicle models: 132
+[01:12:53] [connection] 127.0.0.1:62539 requests connection cookie.
+[01:12:54] [connection] incoming connection: 127.0.0.1:62539 id: 0
+[01:12:54] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[01:14:09] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:16:14] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:16:17] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:16:21] [chat] [Frank_Sherman]: f
+[01:18:56] [part] Frank_Sherman has left the server (0:1)
+[01:19:35] [connection] 127.0.0.1:53407 requests connection cookie.
+[01:19:42] [connection] incoming connection: 127.0.0.1:53407 id: 0
+[01:19:42] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[01:20:06] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:20:12] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:20:29] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:20:46] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:20:55] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:20:59] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:21:16] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:21:31] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:21:56] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:21:57] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:24:42] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:25:09] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:25:27] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:25:29] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:25:31] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:25:34] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:26:02] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:28:15] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:28:57] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:29:21] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:29:27] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:30:41] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:31:41] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:32:34] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:32:46] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:34:31] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:34:31] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:34:31] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:35:25] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:35:25] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:35:48] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:36:12] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[01:36:21] [part] Frank_Sherman has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:05:13] 
+[02:05:13] Server Plugins
+[02:05:13] --------------
+[02:05:13]  Loading plugin: mysql
+[02:05:14]  >> plugin.mysql: R39-6 successfully loaded.
+[02:05:15]   Loaded.
+[02:05:15]  Loading plugin: pawncmd
+[02:05:15] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[02:05:15]   Loaded.
+[02:05:15]  Loading plugin: sscanf
+[02:05:15] 
+
+[02:05:15]  ===============================
+
+[02:05:15]       sscanf plugin loaded.     
+
+[02:05:15]          Version:  2.8.3        
+
+[02:05:15]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:05:15]  ===============================
+
+[02:05:16]   Loaded.
+[02:05:16]  Loading plugin: streamer
+[02:05:16] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[02:05:16]   Loaded.
+[02:05:16]  Loading plugin: md5
+[02:05:17]   MD5 v1.2 by BJIADOKC loaded
+[02:05:17]   Loaded.
+[02:05:17]  Loading plugin: TOTP
+[02:05:17] TOTP plugin v1.0.1 by Games loaded.
+[02:05:17]   Loaded.
+[02:05:17]  Loading plugin: CRP
+[02:05:17] 
+
+[02:05:17] ______________________________________
+
+[02:05:17]  Convert Rus To Pwn v0.1.1 loaded
+[02:05:17] ______________________________________
+
+[02:05:17]  By: Fro (c) Copyright <TBG> 2009-2011
+[02:05:17] ______________________________________
+
+[02:05:17]   Loaded.
+[02:05:17]  Loaded 7 plugins.
+
+[02:05:19] 
+[02:05:19] Filterscripts
+[02:05:19] ---------------
+[02:05:20]   Loading filterscript 'duel.amx'...
+[02:05:20]   Loaded 1 filterscripts.
+
+[02:05:23]  
+[02:05:23] --------------------------------------
+[02:05:23]  Античит Nex-AC загружен!
+[02:05:23]  Версия античита: 1.9.49
+[02:05:23]  Автор: Nexius
+[02:05:24] --------------------------------------
+
+[02:05:41] FullDostup успешно загружен
+[02:05:42] Бонус LEVEL:      		1
+[02:05:42] Бонус MONEY:      		10000000
+[02:05:42] Бонус DONATE:      		10000
+[02:05:42] BlackMarket работает
+[02:05:42] Цена на акссесуары:      	60000000
+[02:05:42] Цена на машины:      		50000000
+[02:05:42] Цена на скины:      		40000000
+[02:05:42] Сколько заработано:      	450000000
+[02:05:42] Загружено биллбордов:      	50
+[02:05:42] Репорты не найдены.
+[02:05:42] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[02:05:48] Загружено домов:		870
+[02:05:48] Загружено бизнесов:		185
+[02:05:48] Загружено авто:		70
+[02:05:49] Загружено семей:		1
+[02:05:49] Загружено паркингов:		38
+[02:05:49] Создано транспорта:		868
+[02:05:49] Создано объектов:		48453
+[02:05:49] Создано гангзон:		101
+[02:05:49] Сервер успешно запустился!
+[02:05:49] Number of vehicle models: 132
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:31:46] 
+[09:31:46] Server Plugins
+[09:31:46] --------------
+[09:31:46]  Loading plugin: mysql
+[09:31:47]  >> plugin.mysql: R39-6 successfully loaded.
+[09:31:47]   Loaded.
+[09:31:47]  Loading plugin: pawncmd
+[09:31:47] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[09:31:47]   Loaded.
+[09:31:47]  Loading plugin: sscanf
+[09:31:47] 
+
+[09:31:47]  ===============================
+
+[09:31:47]       sscanf plugin loaded.     
+
+[09:31:47]          Version:  2.8.3        
+
+[09:31:47]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:31:47]  ===============================
+
+[09:31:47]   Loaded.
+[09:31:47]  Loading plugin: streamer
+[09:31:48] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:31:48]   Loaded.
+[09:31:48]  Loading plugin: md5
+[09:31:48]   MD5 v1.2 by BJIADOKC loaded
+[09:31:48]   Loaded.
+[09:31:48]  Loading plugin: TOTP
+[09:31:48] TOTP plugin v1.0.1 by Games loaded.
+[09:31:48]   Loaded.
+[09:31:48]  Loading plugin: CRP
+[09:31:48] 
+
+[09:31:48] ______________________________________
+
+[09:31:48]  Convert Rus To Pwn v0.1.1 loaded
+[09:31:48] ______________________________________
+
+[09:31:48]  By: Fro (c) Copyright <TBG> 2009-2011
+[09:31:48] ______________________________________
+
+[09:31:48]   Loaded.
+[09:31:48]  Loaded 7 plugins.
+
+[09:31:48] 
+[09:31:48] Filterscripts
+[09:31:48] ---------------
+[09:31:48]   Loading filterscript 'duel.amx'...
+[09:31:48]   Loaded 1 filterscripts.
+
+[09:31:48]  
+[09:31:48] --------------------------------------
+[09:31:48]  Античит Nex-AC загружен!
+[09:31:48]  Версия античита: 1.9.49
+[09:31:48]  Автор: Nexius
+[09:31:48] --------------------------------------
+
+[09:31:55] FullDostup успешно загружен
+[09:31:55] Бонус LEVEL:      		1
+[09:31:55] Бонус MONEY:      		10000000
+[09:31:55] Бонус DONATE:      		10000
+[09:31:56] BlackMarket работает
+[09:31:56] Цена на акссесуары:      	60000000
+[09:31:56] Цена на машины:      		50000000
+[09:31:56] Цена на скины:      		40000000
+[09:31:56] Сколько заработано:      	450000000
+[09:31:56] Загружено биллбордов:      	50
+[09:31:56] Репорты не найдены.
+[09:31:56] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[09:31:57] Загружено домов:		870
+[09:31:57] Загружено бизнесов:		185
+[09:31:57] Загружено авто:		70
+[09:31:57] Загружено семей:		1
+[09:31:57] Загружено паркингов:		38
+[09:31:57] Создано транспорта:		868
+[09:31:57] Создано объектов:		48453
+[09:31:57] Создано гангзон:		101
+[09:31:57] Сервер успешно запустился!
+[09:31:57] Number of vehicle models: 132
+[09:33:13] [connection] 127.0.0.1:59649 requests connection cookie.
+[09:33:14] [connection] incoming connection: 127.0.0.1:59649 id: 0
+[09:33:14] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[09:33:33] [death] Frank_Sherman died 255
+[09:34:20] [part] Frank_Sherman has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:52:42] 
+[09:52:42] Server Plugins
+[09:52:42] --------------
+[09:52:42]  Loading plugin: mysql
+[09:52:42]  >> plugin.mysql: R39-6 successfully loaded.
+[09:52:42]   Loaded.
+[09:52:42]  Loading plugin: pawncmd
+[09:52:42] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[09:52:42]   Loaded.
+[09:52:42]  Loading plugin: sscanf
+[09:52:42] 
+
+[09:52:42]  ===============================
+
+[09:52:42]       sscanf plugin loaded.     
+
+[09:52:42]          Version:  2.8.3        
+
+[09:52:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:52:42]  ===============================
+
+[09:52:42]   Loaded.
+[09:52:42]  Loading plugin: streamer
+[09:52:42] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:52:42]   Loaded.
+[09:52:42]  Loading plugin: md5
+[09:52:42]   MD5 v1.2 by BJIADOKC loaded
+[09:52:42]   Loaded.
+[09:52:42]  Loading plugin: TOTP
+[09:52:42] TOTP plugin v1.0.1 by Games loaded.
+[09:52:42]   Loaded.
+[09:52:42]  Loading plugin: CRP
+[09:52:42] 
+
+[09:52:42] ______________________________________
+
+[09:52:42]  Convert Rus To Pwn v0.1.1 loaded
+[09:52:42] ______________________________________
+
+[09:52:42]  By: Fro (c) Copyright <TBG> 2009-2011
+[09:52:42] ______________________________________
+
+[09:52:42]   Loaded.
+[09:52:42]  Loaded 7 plugins.
+
+[09:52:42] 
+[09:52:42] Filterscripts
+[09:52:42] ---------------
+[09:52:42]   Loading filterscript 'duel.amx'...
+[09:52:42]   Loaded 1 filterscripts.
+
+[09:52:42]  
+[09:52:42] --------------------------------------
+[09:52:42]  Античит Nex-AC загружен!
+[09:52:42]  Версия античита: 1.9.49
+[09:52:42]  Автор: Nexius
+[09:52:42] --------------------------------------
+
+[09:52:46] FullDostup успешно загружен
+[09:52:47] Бонус LEVEL:      		1
+[09:52:47] Бонус MONEY:      		10000000
+[09:52:47] Бонус DONATE:      		10000
+[09:52:47] BlackMarket работает
+[09:52:47] Цена на акссесуары:      	60000000
+[09:52:47] Цена на машины:      		50000000
+[09:52:47] Цена на скины:      		40000000
+[09:52:47] Сколько заработано:      	450000000
+[09:52:47] Загружено биллбордов:      	50
+[09:52:47] Репорты не найдены.
+[09:52:47] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[09:52:48] Загружено домов:		870
+[09:52:48] Загружено бизнесов:		185
+[09:52:48] Загружено авто:		70
+[09:52:48] Загружено семей:		1
+[09:52:48] Загружено паркингов:		38
+[09:52:48] Создано транспорта:		868
+[09:52:48] Создано объектов:		48453
+[09:52:48] Создано гангзон:		101
+[09:52:48] Сервер успешно запустился!
+[09:52:48] Number of vehicle models: 132
+[09:53:12] [connection] 127.0.0.1:54735 requests connection cookie.
+[09:53:13] [connection] incoming connection: 127.0.0.1:54735 id: 0
+[09:53:13] [join] Frank_Sherman has joined the server (0:127.0.0.1)
+[09:53:46] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[09:53:58] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[09:53:58] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[09:54:03] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[09:54:07] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[09:54:27] [sampgdk:error] Too many callback arguments (at most 32 allowed)
+[10:01:20] [part] Frank_Sherman has left the server (0:1)
