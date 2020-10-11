@@ -1,0 +1,1176 @@
+
+    	CraftSuper[playerid][53] = CreatePlayerTextDraw(playerid, 150.000000, 150.000000, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][53], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][53], 230.000000, 200.000000);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][53], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][53], 0x111111FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][53], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][53], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][53], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][53], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][53], 0x000000FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][53], 4);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][53], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][53], 0);
+
+		CraftSuper[playerid][52] = CreatePlayerTextDraw(playerid, 150.000000, 173.600006, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][52], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][52], 230.000000, 1.000000);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][52], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][52], 0xBE5555FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][52], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][52], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][52], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][52], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][52], 0x000000FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][52], 4);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][52], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][52], 0);
+
+		CraftSuper[playerid][51] = CreatePlayerTextDraw(playerid, 150.000000, 177.600006, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][51], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][51], 230.000000, 14.750000);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][51], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][51], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][51], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][51], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][51], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][51], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][51], 0x000000FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][51], 4);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][51], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][51], 0);
+
+		CraftSuper[playerid][50] = CreatePlayerTextDraw(playerid, 162.000000, 181.007278, "ACCESSORY");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][50], 0.134937, 0.793544);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][50], 194.182373, 6.348354);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][50], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][50],  0xDA9949FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][50], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][50], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][50], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][50], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][50], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][50], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][50], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][50], 1);
+
+		CraftSuper[playerid][49] = CreatePlayerTextDraw(playerid, 219.500000, 181.007278, "CLOTHES");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][49], 0.134937, 0.793544);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][49], 244.530731, 6.348354);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][49], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][49], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][49], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][49], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][49], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][49], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][49], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][49], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][49], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][49], 1);
+
+		CraftSuper[playerid][48] = CreatePlayerTextDraw(playerid, 277.000000, 181.007278, "CHEMISTRY");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][48], 0.134937, 0.793544);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][48], 309.182373, 6.348354);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][48], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][48], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][48], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][48], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][48], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][48], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][48], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][48], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][48], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][48], 1);
+
+		CraftSuper[playerid][47] = CreatePlayerTextDraw(playerid, 334.500000, 181.007278, "WORKING");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][47], 0.134937, 0.793544);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][47], 359.530731, 6.348354);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][47], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][47], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][47], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][47], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][47], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][47], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][47], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][47], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][47], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][47], 1);
+
+		CraftSuper[playerid][46] = CreatePlayerTextDraw(playerid, 156.000000, 198.350006, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][46], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][46], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][46], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][46], 0xAD5252FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][46], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][46], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][46], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][46], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][46], 0x000000FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][46], 4);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][46], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][46], 0);
+
+		CraftSuper[playerid][45] = CreatePlayerTextDraw(playerid, 162.000000, 201.731384, "Kolonka");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][45], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][45], 254.000000, 6.348354);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][45], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][45], 0xFFFFFFFF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][45], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][45], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][45], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][45], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][45], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][45], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][45], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][45], 1);
+
+		CraftSuper[playerid][44] = CreatePlayerTextDraw(playerid, 156.000000, 211.461121, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][44], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][44], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][44], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][44], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][44], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][44], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][44], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][44], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][44], 0x000000FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][44], 4);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][44], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][44], 0);
+
+		CraftSuper[playerid][43] = CreatePlayerTextDraw(playerid, 162.000000, 214.842499, "Extinguisher");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][43], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][43], 254.000000, 6.348354);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][43], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][43], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][43], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][43], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][43], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][43], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][43], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][43], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][43], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][43], 67);
+
+		CraftSuper[playerid][42] = CreatePlayerTextDraw(playerid, 156.000000, 224.572235, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][42], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][42], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][42], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][42], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][42], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][42], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][42], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][42], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][42], 0x000000FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][42], 4);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][42], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][42], 0);
+
+		CraftSuper[playerid][41] = CreatePlayerTextDraw(playerid, 162.000000, 227.953613, "Bat with nails");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][41], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][41], 254.000000, 6.348354);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][41], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][41], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][41], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][41], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][41], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][41], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][41], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][41], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][41], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][41], 68);
+
+		CraftSuper[playerid][40] = CreatePlayerTextDraw(playerid, 156.000000, 237.683334, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][40], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][40], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][40], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][40], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][40], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][40], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][40], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][40], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][40], 0x000000FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][40], 4);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][40], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][40], 0);
+
+		CraftSuper[playerid][39] = CreatePlayerTextDraw(playerid, 162.000000, 241.064713, "Sword");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][39], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][39], 254.000000, 6.348354);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][39], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][39], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][39], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][39], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][39], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][39], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][39], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][39], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][39], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][39], 69);
+
+
+		CraftSuper[playerid][38] = CreatePlayerTextDraw(playerid, 156.000000, 250.794449, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][38], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][38], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][38], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][38], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][38], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][38], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][38], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][38], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][38], 0x000000FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][38], 4);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][38], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][38], 0);
+
+		CraftSuper[playerid][37] = CreatePlayerTextDraw(playerid, 162.000000, 254.175827, "Hammer");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][37], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][37], 254.000000, 6.348354);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][37], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][37], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][37], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][37], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][37], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][37], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][37], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][37], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][37], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][37], 70);
+
+		CraftSuper[playerid][36] = CreatePlayerTextDraw(playerid, 156.000000, 263.905579, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][36], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][36], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][36], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][36], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][36], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][36], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][36], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][36], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][36], 0x000000FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][36], 4);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][36], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][36], 0);
+
+		CraftSuper[playerid][35] = CreatePlayerTextDraw(playerid, 162.000000, 267.286957, "Maska CJ");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][35], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][35], 254.000000, 6.348354);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][35], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][35], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][35], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][35], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][35], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][35], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][35], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][35], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][35], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][35], 71);
+
+		CraftSuper[playerid][34] = CreatePlayerTextDraw(playerid, 156.000000, 277.016663, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][34], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][34], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][34], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][34], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][34], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][34], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][34], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][34], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][34], 0x000000FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][34], 4);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][34], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][34], 0);
+
+		CraftSuper[playerid][33] = CreatePlayerTextDraw(playerid, 162.000000, 280.398041, "Red suitcase");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][33], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][33], 254.000000, 6.348354);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][33], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][33], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][33], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][33], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][33], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][33], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][33], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][33], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][33], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][33], 72);
+
+		CraftSuper[playerid][32] = CreatePlayerTextDraw(playerid, 156.000000, 290.127777, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][32], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][32], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][32], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][32], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][32], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][32], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][32], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][32], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][32], 0x000000FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][32], 4);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][32], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][32], 0);
+
+		CraftSuper[playerid][31] = CreatePlayerTextDraw(playerid, 162.000000, 293.509155, "Helmet");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][31], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][31], 254.000000, 6.348354);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][31], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][31], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][31], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][31], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][31], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][31], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][31], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][31], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][31], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][31], 73);
+
+		CraftSuper[playerid][30] = CreatePlayerTextDraw(playerid, 156.000000, 303.238892, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][30], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][30], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][30], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][30], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][30], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][30], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][30], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][30], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][30], 0x000000FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][30], 4);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][30], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][30], 0);
+
+		CraftSuper[playerid][29] = CreatePlayerTextDraw(playerid, 162.000000, 306.620270, "Maska");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][29], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][29], 254.000000, 6.348354);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][29], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][29], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][29], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][29], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][29], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][29], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][29], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][29], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][29], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][29], 74);
+
+		CraftSuper[playerid][28] = CreatePlayerTextDraw(playerid, 156.000000, 316.350006, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][28], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][28], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][28], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][28], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][28], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][28], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][28], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][28], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][28], 0x000000FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][28], 4);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][28], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][28], 0);
+
+		CraftSuper[playerid][27] = CreatePlayerTextDraw(playerid, 162.000000, 319.731384, "Maska Red");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][27], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][27], 254.000000, 6.348354);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][27], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][27], 0xFFFFFFFF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][27], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][27], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][27], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][27], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][27], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][27], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][27], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][27], 75);
+
+		CraftSuper[playerid][26] = CreatePlayerTextDraw(playerid, 156.000000, 329.461121, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][26], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][26], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][26], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][26], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][26], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][26], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][26], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][26], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][26], 0x000000FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][26], 4);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][26], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][26], 0);
+
+		CraftSuper[playerid][25] = CreatePlayerTextDraw(playerid, 186.666672, 332.842499, "<");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][25], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][25], 189.905151, 6.348354);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][25], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][25], 0xDA9949FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][25], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][25], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][25], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][25], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][25], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][25], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][25], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][25], 1);
+
+		CraftSuper[playerid][24] = CreatePlayerTextDraw(playerid, 202.000000, 332.842499, "_");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][24], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][24], 1280.000000, 1280.000000);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][24], 2);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][24], 0xDA9949FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][24], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][24], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][24], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][24], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][24], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][24], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][24], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][24], 0);
+
+		CraftSuper[playerid][23] = CreatePlayerTextDraw(playerid, 214.526642, 332.842499, ">");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][23], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][23], 217.765121, 6.348354);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][23], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][23], 0xDA9949FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][23], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][23], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][23], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][23], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][23], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][23], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][23], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][23], 1);
+
+		CraftSuper[playerid][22] = CreatePlayerTextDraw(playerid, 254.000000, 198.350006, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][22], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][22], 120.000000, 144.222229);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][22], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][22], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][22], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][22], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][22], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][22], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][22], 0x000000FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][22], 4);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][22], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][22], 0);
+
+		CraftSuper[playerid][21] = CreatePlayerTextDraw(playerid, 257.000000, 201.350006, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][21], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][21], 31.875000, 36.875000);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][21], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][21], 0xFFFFFFFF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][21], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][21], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][21], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][21], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][21], 0x333333FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][21], 5);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][21], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][21], 0);
+		PlayerTextDrawSetPreviewModel(playerid, CraftSuper[playerid][21], 2102);
+		PlayerTextDrawSetPreviewRot(playerid, CraftSuper[playerid][21], 0.000000, 0.000000, 193.000000, 0.872784);
+
+		CraftSuper[playerid][20] = CreatePlayerTextDraw(playerid, 331.437500, 204.350006, "");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][20], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][20], 1280.000000, 1280.000000);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][20], 2);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][20], 0xFFFFFFFF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][20], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][20], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][20], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][20], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][20], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][20], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][20], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][20], 0);
+
+	    CraftSuper[playerid][19] = CreatePlayerTextDraw(playerid, 257.000000, 250.225006, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][19], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][19], 114.000000, 1.000000);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][19], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][19], 0xBE5555FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][19], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][19], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][19], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][19], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][19], 0x000000FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][19], 4);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][19], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][19], 0);
+
+		CraftSuper[playerid][18] = CreatePlayerTextDraw(playerid, 260.000000, 257.225006, "TREBOVANIYe:");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][18], 0.134937, 0.793544);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][18], 1280.000000, 1280.000000);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][18], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][18], 0xDA9949FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][18], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][18], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][18], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][18], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][18], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][18], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][18], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][18], 0);
+
+		CraftSuper[playerid][17] = CreatePlayerTextDraw(playerid, 260.000000, 271.160461, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][17], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][17], 22.500000, 26.029411);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][17], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][17], 0x666666FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][17], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][17], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][17], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][17], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][17], 0x333333FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][17], 5);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][17], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][17], 1);
+		PlayerTextDrawSetPreviewModel(playerid, CraftSuper[playerid][17], 826);
+		PlayerTextDrawSetPreviewRot(playerid, CraftSuper[playerid][17], 328.000000, 0.000000, 222.000000, 1.303441);
+
+		CraftSuper[playerid][16] = CreatePlayerTextDraw(playerid, 271.250000, 290.899597, "");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][16], 0.089958, 0.529030);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][16], 1280.000000, 1280.000000);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][16], 2);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][16], 0xFFFFFFFF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][16], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][16], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][16], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][16], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][16], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][16], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][16], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][16], 0);
+
+		CraftSuper[playerid][15] = CreatePlayerTextDraw(playerid, 288.500000, 271.160461, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][15], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][15], 22.500000, 26.029411);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][15], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][15], 0x666666FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][15], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][15], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][15], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][15], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][15], 0x333333FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][15], 5);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][15], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][15], 1);
+		PlayerTextDrawSetPreviewModel(playerid, CraftSuper[playerid][15], 17027);
+		PlayerTextDrawSetPreviewRot(playerid, CraftSuper[playerid][15], 251.000000, 0.000000, 0.000000, 1.392075);
+
+	    CraftSuper[playerid][14] = CreatePlayerTextDraw(playerid, 299.750000, 290.899597, "");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][14], 0.089958, 0.529030);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][14], 1280.000000, 1280.000000);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][14], 2);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][14], 0xFFFFFFFF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][14], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][14], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][14], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][14], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][14], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][14], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][14], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][14], 0);
+
+		CraftSuper[playerid][13] = CreatePlayerTextDraw(playerid, 317.000000, 271.160461, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][13], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][13], 22.500000, 26.029411);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][13], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][13], 0x666666FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][13], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][13], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][13], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][13], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][13], 0x333333FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][13], 5);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][13], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][13], 1);
+		PlayerTextDrawSetPreviewModel(playerid, CraftSuper[playerid][13], 3929);
+		PlayerTextDrawSetPreviewRot(playerid, CraftSuper[playerid][13], 236.000000, 0.000000, 0.000000, 1.558915);
+
+		CraftSuper[playerid][12] = CreatePlayerTextDraw(playerid, 328.250000, 290.899597, "");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][12], 0.089958, 0.529030);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][12], 1280.000000, 1280.000000);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][12], 2);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][12], 0xFFFFFFFF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][12], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][12], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][12], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][12], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][12], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][12], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][12], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][12], 0);
+
+		CraftSuper[playerid][11] = CreatePlayerTextDraw(playerid, 345.500000, 271.160461, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][11], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][11], 22.500000, 26.029411);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][11], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][11], 0x666666FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][11], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][11], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][11], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][11], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][11], 0x333333FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][11], 5);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][11], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][11], 0);
+		PlayerTextDrawSetPreviewModel(playerid, CraftSuper[playerid][11], 19941);
+		PlayerTextDrawSetPreviewRot(playerid, CraftSuper[playerid][11], 29.000000, 18.000000, 220.000000, 1.256517);
+
+		CraftSuper[playerid][10] = CreatePlayerTextDraw(playerid, 356.750000, 290.899597, "");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][10], 0.089958, 0.529030);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][10], 1280.000000, 1280.000000);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][10], 2);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][10], 0xFFFFFFFF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][10], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][10], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][10], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][10], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][10], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][10], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][10], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][10], 0);
+
+	    CraftSuper[playerid][9] = CreatePlayerTextDraw(playerid, 260.000000, 328.493561, "KOL-VO:");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][9], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][9], 1280.000000, 1280.000000);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][9], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][9], 0xDA9949FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][9], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][9], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][9], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][9], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][9], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][9], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][9], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][9], 0);
+
+		CraftSuper[playerid][8] = CreatePlayerTextDraw(playerid, 280.024597, 325.716156, "-");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][8], 0.188911, 1.110962);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][8], 285.691925, 11.109620);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][8], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][8], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][8], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][8], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][8], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][8], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][8], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][8], 1);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][8], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][8], 1);
+
+		CraftSuper[playerid][7] = CreatePlayerTextDraw(playerid, 285.885254, 329.197235, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][7], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][7], 24.000000, 7.375000);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][7], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][7], 0x222222FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][7], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][7], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][7], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][7], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][7], 0x000000FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][7], 4);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][7], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][7], 0);
+
+		CraftSuper[playerid][6] = CreatePlayerTextDraw(playerid, 288.885254, 329.710571, "1");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][6], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][6], 312.885254, 6.348354);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][6], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][6], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][6], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][6], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][6], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][6], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][6], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][6], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][6], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][6], 1);
+
+		CraftSuper[playerid][5] = CreatePlayerTextDraw(playerid, 312.885254, 326.993774, "_");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][5], 0.167321, 0.952253);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][5], 317.904907, 9.522532);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][5], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][5], 0x70A64EFF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][5], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][5], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][5], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][5], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][5], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][5], 1);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][5], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][5], 1);
+
+		CraftSuper[playerid][4] = CreatePlayerTextDraw(playerid, 260.000000, 306.189880, "~g~COST");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][4], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][4], 1280.000000, 1280.000000);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][4], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][4], 0x00FFFFFF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][4], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][4], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][4], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][4], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][4], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][4], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][4], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][4], 0);
+
+		CraftSuper[playerid][3] = CreatePlayerTextDraw(playerid, 368.000000, 306.189880, "~g~FREE");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][3], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][3], 1280.000000, 1280.000000);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][3], 3);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][3], 0xFFFFFFFF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][3], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][3], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][3], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][3], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][3], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][3], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][3], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][3], 0);
+
+		CraftSuper[playerid][2] = CreatePlayerTextDraw(playerid, 314.000000, 313.982513, "SUCCESS CHANCE: 30%");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][2], 0.134937, 0.793544);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][2], 1280.000000, 1280.000000);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][2], 2);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][2], 0xDA9949FF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][2], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][2], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][2], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][2], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][2], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][2], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][2], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][2], 0);
+
+		CraftSuper[playerid][1] = CreatePlayerTextDraw(playerid, 323.319275, 326.247223, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][1], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][1], 47.680725, 13.325012);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][1], 1);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][1], 0x42B02CFF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][1], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][1], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][1], 2);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][1], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][1], 0x000000FF);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][1], 4);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][1], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][1], 1);
+
+		CraftSuper[playerid][0] = CreatePlayerTextDraw(playerid, 347.159637, 329.735565, "CRAFT");
+		PlayerTextDrawLetterSize(playerid, CraftSuper[playerid][0], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, CraftSuper[playerid][0], 1280.000000, 1280.000000);
+		PlayerTextDrawAlignment(playerid, CraftSuper[playerid][0], 2);
+		PlayerTextDrawColor(playerid, CraftSuper[playerid][0], 0xFFFFFFFF);
+		PlayerTextDrawUseBox(playerid, CraftSuper[playerid][0], 0);
+		PlayerTextDrawBoxColor(playerid, CraftSuper[playerid][0], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, CraftSuper[playerid][0], 0);
+		PlayerTextDrawSetOutline(playerid, CraftSuper[playerid][0], 0);
+		PlayerTextDrawBackgroundColor(playerid, CraftSuper[playerid][0], 0x00000000);
+		PlayerTextDrawFont(playerid, CraftSuper[playerid][0], 2);
+		PlayerTextDrawSetProportional(playerid, CraftSuper[playerid][0], 1);
+		PlayerTextDrawSetSelectable(playerid, CraftSuper[playerid][0], 0);
+
+		Craftgovnishe[playerid][25] = CreatePlayerTextDraw(playerid, 257.000000, 201.350006, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][25], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][25], 31.875000, 36.875000);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][25], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][25], 0xFFFFFFFF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][25], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][25], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][25], 2);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][25], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][25], 0x333333FF);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][25], 5);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][25], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][25], 0);
+		PlayerTextDrawSetPreviewModel(playerid, Craftgovnishe[playerid][25], 1649);
+		PlayerTextDrawSetPreviewRot(playerid, Craftgovnishe[playerid][25], 0.000000, 0.000000, 90.000000, 2.000000);
+
+		Craftgovnishe[playerid][24] = CreatePlayerTextDraw(playerid, 260.000000, 271.160461, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][24], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][24], 22.500000, 26.029411);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][24], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][24], 0x666666FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][24], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][24], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][24], 2);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][24], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][24], 0x333333FF);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][24], 5);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][24], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][24], 1);
+		PlayerTextDrawSetPreviewModel(playerid, Craftgovnishe[playerid][24], 1649);
+		PlayerTextDrawSetPreviewRot(playerid, Craftgovnishe[playerid][24], 0.000000, 0.000000, 90.000000, 2.000000);
+
+		Craftgovnishe[playerid][23] = CreatePlayerTextDraw(playerid, 288.500000, 271.160461, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][23], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][23], 22.500000, 26.029411);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][23], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][23], 0x666666FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][23], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][23], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][23], 2);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][23], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][23], 0x333333FF);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][23], 5);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][23], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][23], 1);
+		PlayerTextDrawSetPreviewModel(playerid, Craftgovnishe[playerid][23], 1649);
+		PlayerTextDrawSetPreviewRot(playerid, Craftgovnishe[playerid][23], 0.000000, 0.000000, 90.000000, 2.000000);
+
+		Craftgovnishe[playerid][22] = CreatePlayerTextDraw(playerid, 317.000000, 271.160461, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][22], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][22], 22.500000, 26.029411);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][22], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][22], 0x666666FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][22], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][22], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][22], 2);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][22], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][22], 0x333333FF);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][22], 5);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][22], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][22], 0);
+		PlayerTextDrawSetPreviewModel(playerid, Craftgovnishe[playerid][22], 1649);
+		PlayerTextDrawSetPreviewRot(playerid, Craftgovnishe[playerid][22], 0.000000, 0.000000, 90.000000, 2.000000);
+
+		Craftgovnishe[playerid][21] = CreatePlayerTextDraw(playerid, 345.500000, 271.160461, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][21], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][21], 22.500000, 26.029411);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][21], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][21], 0x666666FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][21], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][21], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][21], 2);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][21], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][21], 0x333333FF);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][21], 5);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][21], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][21], 0);
+		PlayerTextDrawSetPreviewModel(playerid, Craftgovnishe[playerid][21], 1649);
+		PlayerTextDrawSetPreviewRot(playerid, Craftgovnishe[playerid][21], 0.000000, 0.000000, 90.000000, 2.000000);
+
+		Craftgovnishe[playerid][20] = CreatePlayerTextDraw(playerid, 323.319275, 326.247223, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][20], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][20], 47.680725, 13.325012);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][20], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][20], 0xBE6955FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][20], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][20], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][20], 2);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][20], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][20], 0x000000FF);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][20], 4);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][20], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][20], 0);
+
+		Craftgovnishe[playerid][19] = CreatePlayerTextDraw(playerid, 156.000000, 198.350006, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][19], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][19], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][19], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][19], 0xFFFFFFFF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][19], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][19], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][19], 2);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][19], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][19], 0x000000FF);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][19], 4);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][19], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][19], 0);
+
+		Craftgovnishe[playerid][18] = CreatePlayerTextDraw(playerid, 162.000000, 201.731384, "Skin: LV Police Officer (ID: 305)");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][18], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][18], 254.000000, 6.348354);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][18], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][18], 0xFFFFFFFF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][18], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][18], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][18], 0);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][18], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][18], 0x00000000);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][18], 2);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][18], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][18], 1);
+
+		Craftgovnishe[playerid][17] = CreatePlayerTextDraw(playerid, 156.000000, 211.461121, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][17], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][17], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][17], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][17], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][17], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][17], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][17], 2);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][17], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][17], 0x000000FF);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][17], 4);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][17], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][17], 0);
+
+		Craftgovnishe[playerid][16] = CreatePlayerTextDraw(playerid, 162.000000, 214.842499, "Skin: LS Police Officer (ID: 304)");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][16], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][16], 254.000000, 6.348354);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][16], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][16], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][16], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][16], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][16], 0);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][16], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][16], 0x00000000);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][16], 2);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][16], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][16], 1);
+
+		Craftgovnishe[playerid][15] = CreatePlayerTextDraw(playerid, 156.000000, 224.572235, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][15], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][15], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][15], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][15], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][15], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][15], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][15], 2);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][15], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][15], 0x000000FF);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][15], 4);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][15], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][15], 0);
+
+		Craftgovnishe[playerid][14] = CreatePlayerTextDraw(playerid, 162.000000, 227.953613, "Skin: LS Police Officer (ID: 303)");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][14], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][14], 254.000000, 6.348354);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][14], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][14], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][14], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][14], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][14], 0);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][14], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][14], 0x00000000);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][14], 2);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][14], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][14], 1);
+
+		Craftgovnishe[playerid][13] = CreatePlayerTextDraw(playerid, 156.000000, 237.683334, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][13], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][13], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][13], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][13], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][13], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][13], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][13], 2);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][13], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][13], 0x000000FF);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][13], 4);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][13], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][13], 0);
+
+		Craftgovnishe[playerid][12] = CreatePlayerTextDraw(playerid, 162.000000, 241.064713, "Skin: Blackjack Dealer (ID: 171)");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][12], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][12], 254.000000, 6.348354);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][12], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][12], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][12], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][12], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][12], 0);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][12], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][12], 0x00000000);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][12], 2);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][12], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][12], 1);
+
+		Craftgovnishe[playerid][11] = CreatePlayerTextDraw(playerid, 156.000000, 250.794449, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][11], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][11], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][11], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][11], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][11], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][11], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][11], 2);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][11], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][11], 0x000000FF);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][11], 4);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][11], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][11], 0);
+
+		Craftgovnishe[playerid][10] = CreatePlayerTextDraw(playerid, 162.000000, 254.175827, "Skin: Hotdog/Chilli Dog Vendor (ID: 168)");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][10], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][10], 254.000000, 6.348354);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][10], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][10], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][10], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][10], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][10], 0);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][10], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][10], 0x00000000);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][10], 2);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][10], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][10], 1);
+
+		Craftgovnishe[playerid][9] = CreatePlayerTextDraw(playerid, 156.000000, 263.905579, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][9], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][9], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][9], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][9], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][9], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][9], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][9], 2);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][9], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][9], 0x000000FF);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][9], 4);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][9], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][9], 0);
+
+		Craftgovnishe[playerid][8] = CreatePlayerTextDraw(playerid, 162.000000, 267.286957, "Skin: Hillbilly (ID: 159)");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][8], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][8], 254.000000, 6.348354);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][8], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][8], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][8], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][8], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][8], 0);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][8], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][8], 0x00000000);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][8], 2);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][8], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][8], 1);
+
+		Craftgovnishe[playerid][7] = CreatePlayerTextDraw(playerid, 156.000000, 277.016663, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][7], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][7], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][7], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][7], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][7], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][7], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][7], 2);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][7], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][7], 0x000000FF);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][7], 4);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][7], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][7], 0);
+
+		Craftgovnishe[playerid][6] = CreatePlayerTextDraw(playerid, 162.000000, 280.398041, "Skin: Construction Worker (ID: 260)");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][6], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][6], 254.000000, 6.348354);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][6], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][6], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][6], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][6], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][6], 0);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][6], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][6], 0x00000000);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][6], 2);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][6], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][6], 1);
+
+		Craftgovnishe[playerid][5] = CreatePlayerTextDraw(playerid, 156.000000, 290.127777, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][5], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][5], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][5], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][5], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][5], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][5], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][5], 2);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][5], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][5], 0x000000FF);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][5], 4);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][5], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][5], 0);
+
+		Craftgovnishe[playerid][4] = CreatePlayerTextDraw(playerid, 162.000000, 293.509155, "Skin: Rifa (ID: 175)");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][4], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][4], 254.000000, 6.348354);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][4], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][4], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][4], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][4], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][4], 0);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][4], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][4], 0x00000000);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][4], 2);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][4], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][4], 1);
+
+		Craftgovnishe[playerid][3] = CreatePlayerTextDraw(playerid, 156.000000, 303.238892, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][3], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][3], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][3], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][3], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][3], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][3], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][3], 2);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][3], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][3], 0x000000FF);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][3], 4);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][3], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][3], 0);
+
+		Craftgovnishe[playerid][2] = CreatePlayerTextDraw(playerid, 162.000000, 306.620270, "Skin: Ballas (ID: 104)");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][2], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][2], 254.000000, 6.348354);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][2], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][2], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][2], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][2], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][2], 0);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][2], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][2], 0x00000000);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][2], 2);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][2], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][2], 1);
+
+		Craftgovnishe[playerid][1] = CreatePlayerTextDraw(playerid, 156.000000, 316.350006, "LD_SPAC:white");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][1], 0.480000, 1.120000);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][1], 92.000000, 13.111111);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][1], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][1], 0x050505FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][1], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][1], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][1], 2);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][1], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][1], 0x000000FF);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][1], 4);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][1], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][1], 0);
+
+		Craftgovnishe[playerid][0] = CreatePlayerTextDraw(playerid, 162.000000, 319.731384, "Skin: Grove Street Families (ID: 106)");
+		PlayerTextDrawLetterSize(playerid, Craftgovnishe[playerid][0], 0.107949, 0.634835);
+		PlayerTextDrawTextSize(playerid, Craftgovnishe[playerid][0], 254.000000, 6.348354);
+		PlayerTextDrawAlignment(playerid, Craftgovnishe[playerid][0], 1);
+		PlayerTextDrawColor(playerid, Craftgovnishe[playerid][0], 0x777777FF);
+		PlayerTextDrawUseBox(playerid, Craftgovnishe[playerid][0], 0);
+		PlayerTextDrawBoxColor(playerid, Craftgovnishe[playerid][0], 0x80808080);
+		PlayerTextDrawSetShadow(playerid, Craftgovnishe[playerid][0], 0);
+		PlayerTextDrawSetOutline(playerid, Craftgovnishe[playerid][0], 0);
+		PlayerTextDrawBackgroundColor(playerid, Craftgovnishe[playerid][0], 0x00000000);
+		PlayerTextDrawFont(playerid, Craftgovnishe[playerid][0], 2);
+		PlayerTextDrawSetProportional(playerid, Craftgovnishe[playerid][0], 1);
+		PlayerTextDrawSetSelectable(playerid, Craftgovnishe[playerid][0], 1);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

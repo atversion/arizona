@@ -1,0 +1,50 @@
+new tmpobjid;
+
+//=================================[Ёкстерьеры]=========================================//
+#include <../azosn/MAPPING/EXTERIOR/AUTOMARKET>
+#include <../azosn/MAPPING/EXTERIOR/CENTRAL_MARKET>
+#include <../azosn/MAPPING/EXTERIOR/CHILIAD_HOUSE>
+#include <../azosn/MAPPING/EXTERIOR/DRIVING_SHOOL>
+#include <../azosn/MAPPING/EXTERIOR/FARM>
+#include <../azosn/MAPPING/EXTERIOR/GREEN_TOWN>
+#include <../azosn/MAPPING/EXTERIOR/KPP_LS-SF>
+#include <../azosn/MAPPING/EXTERIOR/NEW_ISLAND>
+#include <../azosn/MAPPING/EXTERIOR/PARKING_BANK>
+#include <../azosn/MAPPING/EXTERIOR/PIER_SANTA-MARIA>
+#include <../azosn/MAPPING/EXTERIOR/SPAWN_LS>
+#include <../azosn/MAPPING/EXTERIOR/LSPD>
+//=================================[»нтерьеры]=========================================//
+#include <../azosn/MAPPING/INTERIOR/ADMIN_HOUSE>
+#include <../azosn/MAPPING/INTERIOR/ARMY_LAS-VENTURAS>
+#include <../azosn/MAPPING/INTERIOR/BANK>
+#include <../azosn/MAPPING/INTERIOR/BANK_VAULT>
+#include <../azosn/MAPPING/INTERIOR/BIKERS>
+#include <../azosn/MAPPING/INTERIOR/CASINO>
+#include <../azosn/MAPPING/INTERIOR/CHURCH>
+#include <../azosn/MAPPING/INTERIOR/DEMORGAN>
+#include <../azosn/MAPPING/INTERIOR/ENTERTAINMENT_CENTER>
+#include <../azosn/MAPPING/INTERIOR/FBI>
+#include <../azosn/MAPPING/INTERIOR/Garage_1>
+#include <../azosn/MAPPING/INTERIOR/Garage_2>
+#include <../azosn/MAPPING/INTERIOR/Garage_3>
+#include <../azosn/MAPPING/INTERIOR/Garage_5>
+#include <../azosn/MAPPING/INTERIOR/Garage_6>
+#include <../azosn/MAPPING/INTERIOR/Garage_7_NG>
+#include <../azosn/MAPPING/INTERIOR/Garage_8>
+#include <../azosn/MAPPING/INTERIOR/GAS_STATION>
+#include <../azosn/MAPPING/INTERIOR/HOTEL_CASINO>
+#include <../azosn/MAPPING/INTERIOR/LA-COSA-NOSTRA>
+#include <../azosn/MAPPING/INTERIOR/MASS_MEDIA>
+#include <../azosn/MAPPING/INTERIOR/NEW_YEAR_GARAGE-ONE>
+#include <../azosn/MAPPING/INTERIOR/RUSSIAN_MAFIA>
+#include <../azosn/MAPPING/INTERIOR/TRAILER>
+#include <../azosn/MAPPING/INTERIOR/YAKUZA>
+#include <../azosn/MAPPING/INTERIOR/CITY_HALL>
+#include <../azosn/MAPPING/INTERIOR/HOUSE_ONE>
+#include <../azosn/MAPPING/INTERIOR/RCPD>
+//=================================[ќстальное]=========================================//
+#include <../azosn/MAPPING/OTHER/other_mapp>
+#include <../azosn/MAPPING/OTHER/door>
+#include <../azosn/MAPPING/OTHER/icon>
+#include <../azosn/MAPPING/OTHER/podval>
+#include <../azosn/MAPPING/OTHER/eventsobirateli>

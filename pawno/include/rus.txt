@@ -1,0 +1,12 @@
+captcha.inc(71) : идентификатор не используется: "Captch_CloseForPlayer"
+captcha.inc(220) : идентификатор не используется: "Captch_CreateTextdaws"
+captcha.inc(209) : идентификатор не используется: "Captch_DestroyTextdraws"
+captcha.inc(67) : идентификатор не используется: "Captch_IsValid"
+captcha.inc(83) : идентификатор не используется: "Captch_OpenForPlayer"
+captcha.inc(22) : идентификатор не используется: "captch_OnDialogResponse"
+captcha.inc(61) : идентификатор не используется: "captch_OnPlayerConnect"
+captcha.inc(61) -- (590) : ошибка 013: отсутствует точка входа (нет public-функций)
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Ошибок:1.
